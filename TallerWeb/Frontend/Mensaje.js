@@ -14,7 +14,7 @@
 
                 $("#" + id).remove();
 
-            }, 10000);
+            }, 4000);
         },
         notificacion: function (mensaje, opciones, callback) {
 
