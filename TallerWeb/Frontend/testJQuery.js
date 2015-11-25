@@ -31,19 +31,19 @@ function loadEventos() {
 
     });
 
-    $(".btn.btn-toolbar").on('click', function () {
-        var li = '<li id="btn_agregarEmpleado" class="hvr-bounce-in">'
-                + '<span class="icono-menu icon-users"></span>'
-                + '<span class="titulo-menu">Otra opcion</span>'
-           + '</li>';
+    //$(".btn.btn-toolbar").on('click', function () {
+    //    var li = '<li id="btn_agregarEmpleado" class="hvr-bounce-in">'
+    //            + '<span class="icono-menu icon-users"></span>'
+    //            + '<span class="titulo-menu">Otra opcion</span>'
+    //       + '</li>';
 
-        $("#menu ul").append(li);
+    //    $("#menu ul").append(li);
 
-        mensaje.notificacion("hola", {_titulo:'PROBLEMAS!!'} ,  function () {
-            //alert("hola callback");
-        });
+    //    mensaje.notificacion("hola", {_titulo:'PROBLEMAS!!'} ,  function () {
+    //        //alert("hola callback");
+    //    });
 
-    });
+    //});
 
     $("#menu ul li").on('click', function () {
         

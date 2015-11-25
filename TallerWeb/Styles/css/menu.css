@@ -109,7 +109,7 @@ button.btn.btn-toolbar:before {
 
 .moverTopBar {
     position: absolute;
-    left: 290px;
+    left: 302px;
 }
 
 
@@ -125,17 +125,21 @@ button.btn.btn-toolbar:before {
 
 #contenedor_notificacion {
     /* background: red; */
-    width: 300px;
+    width: 314px;
     position: fixed;
     right: 0;
-    top: 40px;
+    top: 35px;
 }
 
 .Notificacion {
     border: 1px solid #ededed;
     padding: 5px;
-    background: #263238;
+    background: rgb(52, 73, 94);
     color: #fff;
+    -webkit-box-shadow: 0.5px 0.5px 7px 1px #000000;
+    box-shadow: 0.5px 0.5px 7px 1px #000000;
+    margin-right: 10px;
+    margin-top: 16px;
 }
 
 .Notificacion .header {

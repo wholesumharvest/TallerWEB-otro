@@ -28,12 +28,11 @@
             configuracion = $.extend(configuracion, opciones); //merge de ambos objetos y los complementa con informacion faltante
 
             var random = "mensaje_" + Math.floor((Math.random() * 100) + 1);
-            var random2 = "'" + random + "'";
 
             var notificacion = '<div id ="' + random + '" class="Notificacion animated fadeInRight">'
             + '<div class="header">  '
               + '  <span class="titulo">'+configuracion._titulo+'</span>'
-               + ' <span class="icon-cross" onClick="mensaje.cerrarNotificacion(true, ' + random2 + ')"></span>'
+               + ' <span class="icon-cross" onClick="mensaje.cerrarNotificacion(true, \'' + random + '\')"></span>'
             + '</div>'
             + '<div class="body">  '
               + '  <p>'
