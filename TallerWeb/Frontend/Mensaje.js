@@ -9,12 +9,12 @@
             setTimeout(function () {
                 //$("#mensaje").removeClass("fadeInRight");
                 $("#" + id).addClass("fadeOutRight");
-            }, 5000);
+            }, 3000);
             setTimeout(function () {
 
                 $("#" + id).remove();
 
-            }, 3000);
+            }, 10000);
         },
         notificacion: function (mensaje, opciones, callback) {
 
