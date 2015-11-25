@@ -31,6 +31,19 @@ function loadEventos() {
 
     });
 
+    $("#lbl_usuarioLogueado").on('click', function () {
+        $('#tool_buttons').empty();
+        for (var i = 0; i < 15; i++)
+        {
+            var tool_button = '<li>'
+                    +'<button class="btn btn-toolbar hvr-radial-out" onclick="mensaje.notificacion(\'Hola '+i+'\')">Tool '+i+'</button>'
+                +'</li>';
+
+            $('#tool_buttons').append(tool_button);
+
+        }
+    });
+
     //$(".btn.btn-toolbar").on('click', function () {
     //    var li = '<li id="btn_agregarEmpleado" class="hvr-bounce-in">'
     //            + '<span class="icono-menu icon-users"></span>'
