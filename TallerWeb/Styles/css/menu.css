@@ -107,9 +107,10 @@ button.btn.btn-toolbar:before {
     display: block !important;
 }
 
-.moverTopBar {
+.moverTopBar    {
     position: absolute;
-    left: 302px;
+    /*left: 302px;*/
+    transform:translate(19em,0em);
 }
 
 

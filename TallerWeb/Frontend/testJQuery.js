@@ -44,6 +44,20 @@ function loadEventos() {
         }
     });
 
+
+    $("#List_Buttons").on('click', function () {
+        $('#List_Buttons').empty();
+        for (var i = 0; i < 15; i++) {
+            var tool_button = '<li id="btn_agregarEmpleado" class="hvr-bounce-in">'
+                + '<span class="icono-menu icon-users"></span>'
+                + '<span class="titulo-menu">Opcion '+i+'</span>'
+            + '</li>';
+
+
+            $('#List_Buttons').append(tool_button);
+
+        }
+    });
     //$(".btn.btn-toolbar").on('click', function () {
     //    var li = '<li id="btn_agregarEmpleado" class="hvr-bounce-in">'
     //            + '<span class="icono-menu icon-users"></span>'
