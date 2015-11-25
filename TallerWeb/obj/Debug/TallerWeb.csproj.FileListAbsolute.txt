@@ -31,3 +31,36 @@ D:\Proyectos personales\TallerWeb\TallerWeb\bin\es\System.Web.WebPages.Razor.res
 D:\Proyectos personales\TallerWeb\TallerWeb\obj\Debug\TallerWeb.csprojResolveAssemblyReference.cache
 D:\Proyectos personales\TallerWeb\TallerWeb\obj\Debug\TallerWeb.dll
 D:\Proyectos personales\TallerWeb\TallerWeb\obj\Debug\TallerWeb.pdb
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\TallerWeb.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\TallerWeb.pdb
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\Newtonsoft.Json.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Net.Http.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Net.Http.WebRequest.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Web.Helpers.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Web.Mvc.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Web.Razor.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Web.WebPages.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Web.WebPages.Razor.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\Newtonsoft.Json.xml
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Net.Http.xml
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Net.Http.WebRequest.xml
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Web.Helpers.xml
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Web.Mvc.xml
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Web.Razor.xml
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Web.WebPages.xml
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\System.Web.WebPages.Razor.xml
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\es\System.Net.Http.resources.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\es\System.Net.Http.WebRequest.resources.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\es\System.Web.Helpers.resources.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\es\System.Web.Mvc.resources.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\es\System.Web.Razor.resources.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\es\System.Web.WebPages.resources.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\obj\Debug\TallerWeb.csprojResolveAssemblyReference.cache
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\obj\Debug\TallerWeb.dll
+C:\PruebaGIT\TallerWeb\TallerWEB-otro\TallerWeb\obj\Debug\TallerWeb.pdb
