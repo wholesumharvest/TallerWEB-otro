@@ -29,6 +29,9 @@ function loadEventos() {
         $("#menu").addClass("mostrarMenu");
         $("#top_bar").addClass("moverTopBar");
 
+
+        //toast.show("MSJ");
+
     });
 
     $("#lbl_usuarioLogueado").on('click', function () {
