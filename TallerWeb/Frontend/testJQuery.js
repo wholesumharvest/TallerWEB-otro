@@ -22,13 +22,23 @@ function loadEventos() {
     $("#btn_menu").on('click', function () {
 
         if ($("#menu").hasClass('mostrarMenu')) {
-            $("#menu").removeClass("mostrarMenu");
+           
             $("#top_bar").removeClass("moverTopBar");
+            $("#menu").removeClass("fadeInLeft");
+            $("#menu").addClass("fadeOutLeft");
+
+            setTimeout(function () {
+
+                $("#menu").removeClass("fadeOutLeft");
+                $("#menu").removeClass("mostrarMenu");
+            }, 1000);
+
+
             return;
         }
         $("#menu").addClass("mostrarMenu");
         $("#top_bar").addClass("moverTopBar");
-
+        $("#menu").addClass("fadeInLeft");
 
         //toast.show("MSJ");
 
